@@ -35,3 +35,12 @@ Ref 3  【Git】使用 SSH 金鑰與 GitHub 連線
 
 Ref 4  如何設定在本機設定 github 帳戶
         [https://cynthiachuang.github.io/Generating-a-Ssh-Key-and-Adding-It-to-the-Github/](https://g0v.hackmd.io/@tmonk/HJ5r_et2B)
+
+=======================================================
+
+[給 Linux 使用者的 Git 與 Github 初體驗](https://ossf.denny.one/tw/foss-programs/9318-git-github-firsttry.html)
+[Git 教學和 GitHub 設定指引](https://hackmd.io/@sysprog/gnu-linux-dev/https%3A%2F%2Fhackmd.io%2F%40sysprog%2Fgit-with-github)
+[Git-Tutorials 基本使用教學](https://github.com/twtrubiks/Git-Tutorials?tab=readme-ov-file)
+[如何使用 GitHub Pages 來架設網頁](https://lawrencechuang760223.medium.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E4%BE%86%E6%9E%B6%E8%A8%AD%E7%B6%B2%E9%A0%81-662a089f4e4)
+[使用 GitHub 免費製作個人網站](https://gitbook.tw/chapters/github/using-github-pages)
+[]()
